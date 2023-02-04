@@ -1,5 +1,15 @@
 # Intrucsion_Warning
 Warning to people entering the prohibited area to use Yolov5
+**Install:**
+```
+pip install -r requirements.txt
+```
+
+**Run:**
+```
+python yolodetect2.py
+```
+
 ![image](https://user-images.githubusercontent.com/111002449/216124652-3700095d-8502-432a-8189-49a4710c1b1a.png)
 ![image](https://user-images.githubusercontent.com/111002449/216124673-5f76fcc3-e1e7-46ed-83d1-787c9dc35678.png)
 ![image](https://user-images.githubusercontent.com/111002449/216124687-00738235-8898-446e-ae7b-3b234ee1317d.png)
